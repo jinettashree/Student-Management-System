@@ -1,0 +1,15 @@
+t2.js:32 Student details
+t2.js:51 
+Student by name(2)
+
+t2.js:56 Student 2 not found:
+t2.js:71 
+ Add course to student
+t2.js:64 coursePhysics, student by name Ed
+t2.js:32 Student details
+t2.js:35 studentId: 3
+t2.js:35 name: Ed
+t2.js:35 grade: 11
+t2.js:37 courses: Math, Chemistry, Biology, Physics
+t2.js:35 attendance: [object Object]
+t2.js:35 hobbies: [object Object]
